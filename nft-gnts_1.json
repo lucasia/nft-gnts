@@ -1,0 +1,16 @@
+{
+  "name": "Gin and Tonic Token",
+  "description": "Get your own unique gin and tonic!",
+  "image": "https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/nftdata/spacebear_1.webp",
+  "external_url": "https://github.com/lucasia/nft-gnts",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Gin and Tonic"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+  ]
+}
